@@ -19,7 +19,7 @@ This repository serves as the main entry point for the E-commerce application. I
 
 ### Product Service
 
-![Product Service Diagram](path/to/your/product-service-diagram.png)
+![Product Service Diagram](https://github.com/sparsh3007/ecommerce-app/assets/49100336/043cf617-7e3c-46de-8bdf-efba4373af0e)
 
 - **Product Management**: CRUD operations for managing product information.
 - **Product Search**: Enables users to search for products by various criteria.
