@@ -10,7 +10,8 @@ This repository serves as the main entry point for the E-commerce application. I
 
 ### User Service
 
-![Userservice diagram](https://github.com/sparsh3007/ecommerce-app/assets/49100336/31680296-5230-4189-a4f9-0334138a8807)
+![User Service diagram](https://github.com/sparsh3007/ecommerce-app/assets/49100336/8b04a0b7-b4a4-4938-b195-d50fbe5938c8)
+
 
 - **User Registration**: Allows new users to sign up. Checks if the user already exists.
 - **User Login**: Validates user credentials and throws custom exceptions for invalid logins.
