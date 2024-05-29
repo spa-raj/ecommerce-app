@@ -105,4 +105,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out at sparsh3007@gmail.com.
+If you have any questions or need further assistance, feel free to reach out at sparsh.raj30@gmail.com.
