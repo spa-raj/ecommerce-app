@@ -34,7 +34,6 @@ The application follows a microservices architecture, with each service being a 
 - **Spring Security**
 - **Hibernate**
 - **MySQL**
-- **Docker**
 
 ## Getting Started
 
@@ -42,7 +41,6 @@ The application follows a microservices architecture, with each service being a 
 
 - Java 11 or higher
 - Maven
-- Docker
 
 ### Installation
 
@@ -69,23 +67,6 @@ The application follows a microservices architecture, with each service being a 
     mvn spring-boot:run
     ```
 
-### Docker
-
-You can also run the services using Docker.
-
-1. **Build Docker Images**:
-    ```bash
-    cd userservice
-    docker build -t userservice:latest .
-    cd ../productService
-    docker build -t productservice:latest .
-    ```
-
-2. **Run Docker Containers**:
-    ```bash
-    docker run -d -p 8081:8081 userservice:latest
-    docker run -d -p 8082:8082 productservice:latest
-    ```
 
 ## API Endpoints
 
