@@ -4,7 +4,7 @@
 
 This repository serves as the main entry point for the E-commerce application. It integrates the `productService` and `userService` microservices to provide a complete solution for managing products and users in an online store.
 
-![Ecommerce app architecture](https://github.com/sparsh3007/ecommerce-app/assets/49100336/3cc858e7-8889-479d-8ca0-7dcda2d50b14)
+![Ecommerce app architecture](https://github.com/sparsh3007/ecommerce-app/assets/49100336/05170673-7978-4438-bb0c-3993b3a988a1)
 
 ## Features
 
