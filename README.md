@@ -81,7 +81,8 @@ The application follows a microservices architecture, with each service being a 
 
 - **POST /users/signup**: Register a new user.
 - **POST /users/login**: Authenticate a user.
-
+- **POST /roles**: Create a new role
+  
 ### Product Service
 
 - **GET /products**: Retrieve all products.
@@ -89,6 +90,10 @@ The application follows a microservices architecture, with each service being a 
 - **POST /products**: Add a new product.
 - **PUT /products/{id}**: Update an existing product.
 - **DELETE /products/{id}**: Delete a product by ID.
+- **GET /categories/{uuid}**: Retrieve a specific category by ID
+- **GET /categories/products**: Retrieve all products for specific categories by category IDs
+- **GET /categories/all**: Retreive all categories
+- **GET /categories/products/{category}**: Retreive all products by category name
 
 ## Contributing
 
