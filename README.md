@@ -4,15 +4,21 @@
 
 This repository serves as the main entry point for the E-commerce application. It integrates the `productService` and `userService` microservices to provide a complete solution for managing products and users in an online store.
 
+![E-commerce Architecture](path/to/your/architecture-diagram.png)
+
 ## Features
 
 ### User Service
+
+![User Service Diagram](https://drive.google.com/file/d/1618gb4Iyc6HA46q16jnBgJSF76AHQaX5/view?usp=drive_link)
 
 - **User Registration**: Allows new users to sign up. Checks if the user already exists.
 - **User Login**: Validates user credentials and throws custom exceptions for invalid logins.
 - **Authentication Service**: Manages authentication tokens and user sessions.
 
 ### Product Service
+
+![Product Service Diagram](path/to/your/product-service-diagram.png)
 
 - **Product Management**: CRUD operations for managing product information.
 - **Product Search**: Enables users to search for products by various criteria.
