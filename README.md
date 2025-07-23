@@ -8,7 +8,7 @@ This repository serves as the main entry point for the E-commerce application. I
 
 ## Features
 
-### User Service
+### [User Service](https://github.com/spa-raj/userservice)
 
 ![User Service diagram](https://github.com/sparsh3007/ecommerce-app/assets/49100336/8b04a0b7-b4a4-4938-b195-d50fbe5938c8)
 
@@ -17,7 +17,7 @@ This repository serves as the main entry point for the E-commerce application. I
 - **User Login**: Validates user credentials and throws custom exceptions for invalid logins.
 - **Authentication Service**: Manages authentication tokens and user sessions.
 
-### Product Service
+### [Product Service](https://github.com/spa-raj/productService)
 
 ![Product Service Diagram](https://github.com/sparsh3007/ecommerce-app/assets/49100336/043cf617-7e3c-46de-8bdf-efba4373af0e)
 
