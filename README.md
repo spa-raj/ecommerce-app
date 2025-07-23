@@ -31,8 +31,8 @@ The application follows a microservices architecture, with each service being a 
 
 ### Services
 
-- **User Service**: Manages user data and authentication. [View Repository](https://github.com/sparsh3007/userservice)
-- **Product Service**: Handles product-related operations. [View Repository](https://github.com/sparsh3007/productService)
+- **User Service**: Manages user data and authentication. [View Repository](https://github.com/spa-raj/userservice)
+- **Product Service**: Handles product-related operations. [View Repository](https://github.com/spa-raj/productService)
 
 ### Technology Stack
 
